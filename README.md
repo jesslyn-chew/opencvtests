@@ -6,7 +6,7 @@ Using Python as the programming language for detection and filtration of images.
 * Video - display webcam.
 * Filtering - detection objects of a specific colour.
 * ContourDetection - detecting circular objects of a specific colour using the contour method.
-* Houghcircles - detecting circular objects of a specfic colour using the houghcircles method (less accurate than contour method).
+* Houghcircles - detecting circular objects of a specfic colour using the houghcircles method.
 * HierarchyDetection - From the "plane.png", detect the inner circles 
 
 ## Getting Started
